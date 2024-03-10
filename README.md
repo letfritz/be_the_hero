@@ -2,9 +2,9 @@
 
 <div align="center"><br/>
   <div style="display: inline-block;">
-    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/be_the_hero">
-    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/be_the_hero">
-    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/be_the_hero">
+    <img align="center" alt="stars" src="https://img.shields.io/github/stars/letfritz/be_the_hero.svg">
+    <img align="center" alt="watchers" src="https://img.shields.io/github/watchers/letfritz/be_the_hero.svg">
+    <img align="center" alt="forks" src="https://img.shields.io/github/forks/letfritz/be_the_hero.svg">
   </div>
   <div style="display: inline-block;">
     <img align="center" alt="downloads" src="https://img.shields.io/github/downloads/letfritz/be_the_hero/total.svg">
